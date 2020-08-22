@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋👨‍💻
 
-<!--
-**MarcosViny/MarcosViny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <strong>Marcos Vinicius</strong>, Front-End Student.
 
-Here are some ideas to get you started:
+I currently work with sales and imports, but I am intensifying my studies more and more to realize my dream of pursuing a career as a Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about technology and initially studying HTML, Css and Javascript.
+
+### 💬 You can find me on:
+[Instagram](https://www.instagram.com/viny3314/)
+
+[Linkedin](https://www.linkedin.com/in/marcosviniciuspinheiro/)
+
+Or send a message to my Gmail - viniciusm896@gmail.com
