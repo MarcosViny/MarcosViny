@@ -7,8 +7,6 @@ I currently work with sales and imports, but I am intensifying my studies more a
 Passionate about technology and initially studying HTML, CSS and Javascript.
 
 ### 💬 You can find me on:
-- [Instagram](https://www.instagram.com/viny3314/)
-
 - [Linkedin](https://www.linkedin.com/in/marcosviniciuspinheiro/)
 
 - Or send a message to my Gmail - viniciusm896@gmail.com
