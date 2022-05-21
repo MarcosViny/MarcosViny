@@ -1,12 +1,14 @@
-### Hi there! 👋👨‍💻
+### Olá, Sou Marcos Vinicius! 👋
 
-I'm <strong>Marcos Vinicius</strong>, Front-End Student.
+<strong> 💻 Desenvolvedor Web, apaixonado por tudo que engloba Tecnologia e com grande apreço por Front-End, Design e Back-End.</strong>
 
-I currently work with sales and imports, but I am intensifying my studies more and more to realize my dream of pursuing a career as a Developer.
+> Estou cursando o Ensino Superior em Análise e Desenvolvimento de Sistemas e tenho conhecimento em:
+> Backend - PHP |
+> Frontend- HTML, CSS, Javascript e Bootstrap |
+> Versionamento de Código GIT |
+> Banco de Dados - MySQL.
 
-Passionate about technology and initially studying HTML, CSS and Javascript.
-
-### 💬 You can find me on:
+### 💬 Gostaria de bater um papo?
 - [Linkedin](https://www.linkedin.com/in/marcosviniciuspinheiro/)
 
-- Or send a message to my Gmail - viniciusm896@gmail.com
+- Gmail - viniciusm896@gmail.com
