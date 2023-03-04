@@ -4,15 +4,15 @@
 ## 🚀 Sobre mim
 💻 Sou Desenvolvedor Web, apaixonado por tudo que engloba Tecnologia e com grande apreço por Front-End, Design e Back-End.  
 
-👨‍🎓 Cursando Ensino Superior em Análise e Desenvolvimento de Sistemas.  
+👨‍🎓 Ensino Superior Concluído em Análise e Desenvolvimento de Sistemas.  
 
 🧠 Gosto de compartilhar conhecimento e sinto que cada vez que faço isso aprendo mais também, caso queira bater um papo me manda uma mensagem, será um prazer trocar ideia!!
 
 ## 🛠 Habilidades
 </> Backend - PHP  
-</> Frontend- HTML, CSS, Javascript e Bootstrap  
+</> Frontend- HTML, CSS, Javascript, jQuery e Bootstrap  
 </> Versionamento de Código - GIT  
-</> Banco de Dados - MySQL
+</> Banco de Dados - MySQL, SQL Server
 
 ## 📫 Como entrar em contato comigo...
 
